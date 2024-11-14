@@ -110,7 +110,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/dsa-python.git
+git clone https://github.com/SudeshBM/Data-Structures-And-Algorithm
 Explore the folders and files for specific topics and implementations.
 
 Run the scripts to see the implementations in action and practice along.
